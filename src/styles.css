@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test-box {
+    @apply w-[120px] border border-black;
+}
